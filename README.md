@@ -1,13 +1,13 @@
 EdgeGo、ChromeGo、FirefoxFQ懂的都懂，量大管饱的节点分享给大家:)
 
-1、这个版本V2rayN，需要安装.NET 运行时 8.0.5，请自行下载安装https://dotnet.microsoft.com/zh-cn/download/dotnet/latest
+1、请下载install-v2rayN.bat、v2rayN-guiConfigs.zip这两个文件，放入同一个文件夹
 
-2、请先安装V2rayN，链接https://github.com/2dust/v2rayN ，建议您选择v2rayN-With-Core.zip ，并解压到 %USERPROFILE%\AppData\Local\（即"C:\Users\用户名\AppData\Local\")
+2、再下载v2rayN-windows-64.zip，链接https://github.com/2dust/v2rayN，放到刚才文件夹
+   *如果您已经安装，您也可以不下载，软件会自动搜索已经安装的v2rayN,不过您原先配置会被清除
 
-3、再下载安装本软件，桌面上会自动生成v2rayN_go.bat
+3、运行文件夹内的install-v2rayN.bat，软件会将免费节点Xray、SingBox安装到v2rayN
+   桌面上会自动生成v2rayN_go图标
 
-4、执行v2rayN_go.bat会更新SingBox和Xray节点链接，并启动V2rayN，再启动浏览器
+4、运行v2rayN_go，会更新SingBox和Xray节点，同时启动v2rayN，如无.NET 运行时 8.0，自动提示安装
 
-5、如果您安装了Firefox浏览器，会优先启动，否则启动Edge浏览器。
-
-另：有V2ryN整合版（连续压缩包共4个文件）供您下载，欢迎大家优化。
+4、如果您安装了Firefox浏览器，会优先启动，否则启动Edge浏览器。
