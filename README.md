@@ -2,7 +2,7 @@ EdgeGo、ChromeGo、FirefoxFQ懂的都懂，量大管饱的节点分享给大家
 
 1、请下载install-v2rayN.bat、v2rayN-guiConfigs.zip这两个文件，放入同一个文件夹
 
-2、再下载v2rayN-windows-64.zip，链接https://github.com/2dust/v2rayN，放到刚才文件夹
+2、再下载v2rayN-windows-64.zip，放到刚才文件夹，链接https://github.com/2dust/v2rayN
 
    *如果您已经安装，您也可以不下载，软件会自动搜索已经安装的v2rayN,不过您原先配置会被清除
 
