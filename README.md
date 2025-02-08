@@ -7,6 +7,7 @@ EdgeGo、ChromeGo、FirefoxFQ懂的都懂，量大管饱的节点分享给大家
    *如果您已经安装，您也可以不下载，软件会自动搜索已经安装的v2rayN,不过您原先配置会被清除
 
 3、运行文件夹内的install-v2rayN.bat，软件会将免费节点Xray、SingBox安装到v2rayN
+
    桌面上会自动生成v2rayN_go图标
 
 4、运行桌面v2rayN_go，会更新SingBox和Xray节点，同时启动v2rayN，如无.NET 运行时 8.0，自动提示安装
